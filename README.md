@@ -77,17 +77,15 @@ A creative web project inspired by the Stranger Things series using **HTML, CSS,
 
 I enjoy sharing what I learn about **Cloud Computing, DevOps, and Emerging Technologies**.
 
-📖 Read my blog here:
-👉 https://kanupriya-prachande.blogspot.com/
+[![Blog Preview](https://via.placeholder.com/800x400.png?text=My+Tech+Blog)](https://kanupriya-prachande.blogspot.com/)
 
 ---
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=KanupriyaPrachande&show_icons=true&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanupriyaPrachande&show_icons=true&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=KanupriyaPrachande&layout=compact&theme=tokyonight
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanupriyaPrachande&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
