@@ -84,9 +84,9 @@ I enjoy sharing what I learn about **Cloud Computing, DevOps, and Emerging Techn
 
 ## 📊 GitHub Stats
 
-![Kanupriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanupriya-prachande\&show_icons=true\&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=KanupriyaPrachande&show_icons=true&theme=tokyonight
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanupriya-prachande\&layout=compact\&theme=tokyonight)
+https://github-readme-stats.vercel.app/api/top-langs/?username=KanupriyaPrachande&layout=compact&theme=tokyonight
 
 ---
 
