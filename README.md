@@ -38,7 +38,7 @@ HTML • CSS • React
 
 **Cloud & DevOps**
 
-AWS • Microsoft Azure • Docker • Kubernetes • Git • GitHub
+AWS • Microsoft Azure • Docker • Kubernetes • Git • GitHub •Jenkins
 
 **Tools**
 
@@ -75,9 +75,9 @@ A creative web project inspired by the Stranger Things series using **HTML, CSS,
 
 ## ✍️ My Tech Blog
 
-I enjoy sharing what I learn about **Cloud Computing, DevOps, and Emerging Technologies**.
+I enjoy sharing what I learn about Cloud Computing, DevOps, and Emerging Technologies.
 
-[![Blog Preview](https://via.placeholder.com/800x400.png?text=My+Tech+Blog)](https://kanupriya-prachande.blogspot.com/)
+[![Visit My Blog](https://img.shields.io/badge/Read%20My%20Blog-Click%20Here-orange?style=for-the-badge&logo=blogger)](https://kanupriya-prachande.blogspot.com/)
 
 ---
 
