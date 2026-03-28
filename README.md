@@ -80,7 +80,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanupriyaPrachande&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanupriyaPrachande&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
