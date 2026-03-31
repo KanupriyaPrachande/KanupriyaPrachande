@@ -56,7 +56,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 AI/ML Cybersecurity Threat Detection Platform
+### 🔐 CyberSentinel AI
 
 ✔️ Built ML models to detect and predict threats
 ✔️ Improved detection accuracy using data analysis
@@ -66,21 +66,28 @@
 ✔️ Automated database migration workflows
 ✔️ Ensured data consistency & reduced errors
 
-### 🌐 Cloud Native Change Approval System
+### 🌐 ChangeGate-AI
 
 ✔️ Automated production approval workflows
 ✔️ Built with containerized DevOps architecture
-
-### 🎬 Stranger Things Themed Website
-
-✔️ Creative frontend project using React
-✔️ Designed immersive UI/UX
 
 ---
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanupriyaPrachande&layout=compact&theme=tokyonight" height="150"/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KanupriyaPrachande&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api?username=KanupriyaPrachande&show_icons=true&theme=dark)
+
+---
+
+
+## 💭 Quote  
+
+<p align="center">
+  <i>"Don't be a know-it-all; be a learn-it-all."</i><br><br>
+  <b>— Satya Nadella</b>
 </p>
 
 ---
