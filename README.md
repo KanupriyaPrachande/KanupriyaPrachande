@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%2F+ML+Enthusiast;Cloud+%26+DevOps+Explorer;Building+Intelligent+%26+Scalable+Systems" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KanupriyaPrachande&style=flat-square&color=blueviolet" alt="profile views"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -122,17 +118,19 @@ A **cyberpunk-inspired**, real-time DevOps monitoring dashboard built using **Re
 
 ---
 
-### 🔐 CyberSentinel AI
+### 🛡️ CyberShield AI — ML-Powered Threat Detection Platform
 
-- 🧠 Built ML models to detect and predict security threats
-- 📊 Improved detection accuracy using data analysis & feature engineering
+AI-powered cybersecurity platform with **95%+ accuracy** in detecting and predicting security threats, built using machine learning models trained on real-world threat data for improved detection rates.
+
+`Python` `Machine Learning` `Data Analysis` `Feature Engineering`
 
 ---
 
-### 🌐 ChangeGate-AI
+### 🚦 ChangeGate AI — Intelligent Change Approval System
 
-- ⚙️ Automated production approval workflows
-- 📦 Built with containerized DevOps architecture
+A **deterministic, rule-based approval system** designed to protect production environments and automate deployment decisions with confidence — built as a containerized, policy-driven DevOps tool.
+
+`Python` `YAML` `Policy Engine` `CLI`
 
 ---
 
@@ -145,10 +143,6 @@ A **cyberpunk-inspired**, real-time DevOps monitoring dashboard built using **Re
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanupriyaPrachande&theme=react-dark&hide_border=true" width="98%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanupriyaPrachande&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -173,7 +167,7 @@ A **cyberpunk-inspired**, real-time DevOps monitoring dashboard built using **Re
 </p>
 
 <p align="center">
-  <b>💡 Insights • Projects • Learnings • Tech Journey</b>
+  <b>💡 Insights • Learnings • Tech Journey</b>
 </p>
 
 ---
@@ -195,4 +189,4 @@ A **cyberpunk-inspired**, real-time DevOps monitoring dashboard built using **Re
 
 ---
 
-<h3 align="center">⚡ Code today. Train models tomorrow. Ship intelligent systems forever. ⚡</h3>
+<h3 align="center">🌱 Not staying in one lane — learning, breaking, fixing, and building my way into software engineering. 🌱</h3>
